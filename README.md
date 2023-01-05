@@ -23,7 +23,7 @@ I was able to achieve the tasks for this module by following the lessons dedicat
 <a href="https://joker282855.github.io/taskinator/">Website Link</a>
 
 ## Screenshot Of Website
-<ing src="./assets/images/task.jpg" alt="Screenshot Of Website" />
+<img src="./assets/images/task.jpg" alt="Screenshot Of Website" />
 
 ## Contributors
 Josh Jackson
