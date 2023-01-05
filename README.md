@@ -15,9 +15,9 @@ progress. The user is also able to add tasks to the task bar as needed.
 I was able to achieve the tasks for this module by following the lessons dedicated for this specific website
 
 ## Languages Used
-HTML
-CSS
-Javascript
+1. HTML
+2. CSS
+3. Javascript
 
 ## Link To Website
 <a href="https://joker282855.github.io/taskinator/">Website Link</a>
